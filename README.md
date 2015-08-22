@@ -14,4 +14,4 @@ This isn't a Stylus framework. There is no actual Stylus or CSS included, it's j
 
 ---
 
-Created by [Matt Bailey](http://mattbailey.io/).
+Created by [Matt Bailey](http://mattbailey.io/), converted to Stylus by [Guilherme Viana](http://ggviana.net).
