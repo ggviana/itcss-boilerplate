@@ -4,7 +4,7 @@
 
 ## What Is It?
 
-At [GPMD](http://www.gpmd.co.uk/) we've been using an ITCSS structure for our Stylus projects for a while now. If you're interested in finding out more about ITCSS you can [watch this talk by Harry Roberts](http://youtu.be/1OKZOV-iLj4).
+I've been using an ITCSS structure for our Stylus projects for a while now. If you're interested in finding out more about ITCSS you can [watch this talk by Harry Roberts](http://youtu.be/1OKZOV-iLj4).
 
 For each new project I set up I keep finding myself creating the same directory and `@import` file structure. To speed things up I've generated this repo as a quick and easy starting point.
 
